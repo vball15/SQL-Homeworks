@@ -1,0 +1,2 @@
+# SQL-Homeworks
+SQL queries
